@@ -9,9 +9,9 @@
 <details>
 <summary>🇬🇧 English</summary>
 
-20+ years in tech: Engineer → EM → PdM → VPoE/PM. Product-minded builder.
+20+ years in tech: Engineer → EM → PdM/VPoE/PM. Product-minded builder.
 
-Currently all-in on **AI × Novel writing** — using AI as a creative partner to design, draft, and revise full-length mystery novels through a structured production workflow.
+Currently all-in on **AI × Novel writing** — using AI as a creative partner to design, draft, and revise full-length novels through a structured production workflow.
 </details>
 
 ### Projects
